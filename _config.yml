@@ -1,13 +1,10 @@
-name: GiangLe
+name: Simply Grey
 markdown: redcarpet
 pygments: true
-github: https://www.github.com/lengocgiang
-about: I am software engineer, forcus for iOS. I'm using Objective-C and learning Swift for my project
+github: https://www.github.com/exaem
+about: I am an independent developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
 urls:
     - text: github
-      url: https://github.com/lengocgiang
+      url: https://github.com/exaem
     - text: email
-      url: mailto:gianglengoc.hut@gmail.com
-    - text: twitter
-      url: @gianglengoc
-
+      url: mailto:exaem@exaem.co.uk
