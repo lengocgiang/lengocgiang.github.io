@@ -1,10 +1,10 @@
-name: Simply Grey
+name: Giang N.Le
 markdown: redcarpet
 pygments: true
-github: https://www.github.com/exaem
-about: I am an independent developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
+github: https://www.github.com/lengocgiang
+about: I am a software engineer, forcus iOS. I'm using Objective-C and learning Swift for my project
 urls:
     - text: github
-      url: https://github.com/exaem
+      url: https://github.com/lengocgiang
     - text: email
-      url: mailto:exaem@exaem.co.uk
+      url: mailto:gianglengoc.hut@gmail.com
