@@ -1,15 +1,24 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
+banner_image: sample-banner-image-2.jpg
+banner_image_alt: About me
 ---
 
-Some information about you!
+Hi, I am Tom Warlker. I am a professional UI/UX designrer and web developer. I love being minimal and creative.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I prefer to serve with Php and Ruby based stacks and also love to work 
+on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Say `Hello` at [webcreatelk@gmail.com]({{ site.email }}) or find
+me on
+
+---
+
+{% include social.html %}
+
+[pw]: http://processwire.com
+[jekyll]: http://jekyllrb.com
