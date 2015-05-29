@@ -5,8 +5,8 @@ email: gianglengoc.hut@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hi, I’m a software engineer, focus for mobile iOS.
   I’m using Objective-C and learning Swift
-baseurl: "/gaya" # the subpath of your site, e.g. /blog/
-url: "http://gayan.me" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://lengocgiang.github.io" # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
 author: “Giang N.Le“
 author_thumbnail: "/assets/images/avatar.jpg" # Author avatar

@@ -6,14 +6,12 @@ banner_image: sample-banner-image-2.jpg
 banner_image_alt: About me
 ---
 
-Hi, I am Tom Warlker. I am a professional UI/UX designrer and web developer. I love being minimal and creative.
-
-I prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+Hi,My name's Giang. I’m a software engineer, focus for mobile iOS.
+  I’m using Objective-C and learning Swift
 
 ### Contact me
 
-Say `Hello` at gayanvirajith@gmail.com or find
+Say `Hello` at gianglengoc.hut@gmail.com or find
 me on
 
 ---
