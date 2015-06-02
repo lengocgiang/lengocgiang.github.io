@@ -71,18 +71,19 @@
  It’s very funny, you know Janpanese different from other languag, Japanese’s figurative language therefore calculation have a little bit different</p>
 
 <div class="highlight"><pre><code class="language-objectivec" data-lang="objectivec"><span class="bp">CGSize</span> <span class="n">constraint</span> <span class="o">=</span> <span class="n">CGSizeMake</span><span class="p">(</span><span class="n">label</span><span class="p">.</span><span class="n">frame</span><span class="p">.</span><span class="n">size</span><span class="p">.</span><span class="n">width</span><span class="p">,</span> <span class="mf">20000.0f</span><span class="p">);</span>
-	
-<span class="bp">CGSize</span> <span class="n">size</span><span class="p">;</span>
-	
-<span class="bp">NSStringDrawingContext</span> <span class="o">*</span><span class="n">context</span> <span class="o">=</span> <span class="p">[[</span><span class="bp">NSStringDrawingContext</span> <span class="n">alloc</span><span class="p">]</span> <span class="n">init</span><span class="p">];</span>
-
-<span class="bp">CGSize</span> <span class="n">boundingBox</span> <span class="o">=</span> <span class="p">[</span><span class="n">string</span> <span class="nl">boundingRectWithSize</span><span class="p">:</span><span class="n">constraint</span>
-                                                   <span class="nl">options</span><span class="p">:</span><span class="n">NSStringDrawingUsesLineFragmentOrigin</span>
-                                                <span class="nl">attributes</span><span class="p">:</span><span class="l">@{</span><span class="nl">NSFontAttributeName</span><span class="p">:</span><span class="n">sizingCell</span><span class="p">.</span><span class="n">noteContent</span><span class="p">.</span><span class="n">font</span><span class="l">}</span>
-                                                   <span class="nl">context</span><span class="p">:</span><span class="n">context</span><span class="p">].</span><span class="n">size</span><span class="p">;</span>
-
-
-<span class="n">size</span> <span class="o">=</span> <span class="n">CGSizeMake</span><span class="p">(</span><span class="n">ceil</span><span class="p">(</span><span class="n">boundingBox</span><span class="p">.</span><span class="n">width</span><span class="p">),</span> <span class="n">ceil</span><span class="p">(</span><span class="n">boundingBox</span><span class="p">.</span><span class="n">height</span><span class="p">));</span></code></pre></div>
+    
+    <span class="bp">CGSize</span> <span class="n">size</span><span class="p">;</span>
+    
+    <span class="bp">NSStringDrawingContext</span> <span class="o">*</span><span class="n">context</span> <span class="o">=</span> <span class="p">[[</span><span class="bp">NSStringDrawingContext</span> <span class="n">alloc</span><span class="p">]</span> <span class="n">init</span><span class="p">];</span>
+    
+    <span class="bp">CGSize</span> <span class="n">boundingBox</span> <span class="o">=</span> <span class="p">[</span><span class="n">label</span><span class="p">.</span><span class="n">text</span>
+                          <span class="nl">boundingRectWithSize</span><span class="p">:</span><span class="n">constraint</span>
+                          <span class="nl">options</span><span class="p">:</span><span class="n">NSStringDrawingUsesLineFragmentOrigin</span>
+                          <span class="nl">attributes</span><span class="p">:</span><span class="l">@{</span><span class="nl">NSFontAttributeName</span><span class="p">:</span><span class="n">label</span><span class="p">.</span><span class="n">font</span><span class="l">}</span>
+                          <span class="nl">context</span><span class="p">:</span><span class="n">context</span><span class="p">].</span><span class="n">size</span><span class="p">;</span>
+    
+    
+    <span class="n">size</span> <span class="o">=</span> <span class="n">CGSizeMake</span><span class="p">(</span><span class="n">ceil</span><span class="p">(</span><span class="n">boundingBox</span><span class="p">.</span><span class="n">width</span><span class="p">),</span> <span class="n">ceil</span><span class="p">(</span><span class="n">boundingBox</span><span class="p">.</span><span class="n">height</span><span class="p">));</span></code></pre></div>
 
     
   </article>
