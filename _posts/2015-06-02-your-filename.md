@@ -3,7 +3,7 @@ published: true
 layout: post
 ---
 
-{% highlight objective-c %}
+{% highlight js %}
 	CGSize constraint = CGSizeMake(sizingCell.noteContent.frame.size.width - 20 - 30, 20000.0f);
     
     CGSize size;
