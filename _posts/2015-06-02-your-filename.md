@@ -2,8 +2,6 @@
 published: true
 ---
 
-## Example web server
-
 This simple web server written in Node responds with "Hello World" for every 
 request.
 
