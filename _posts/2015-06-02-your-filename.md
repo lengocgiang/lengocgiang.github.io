@@ -2,32 +2,5 @@
 published: true
 layout: post
 ---
-<<<<<<< HEAD
-sddsfdsfdsfsdfsd
-fdsf
-dsfds
-fsdf
-sdf
-{% highlight js %}
-	CGSize constraint = CGSizeMake(sizingCell.noteContent.frame.size.width - 20 - 30, 20000.0f);
-    
-    CGSize size;
-    
-    NSStringDrawingContext *context = [[NSStringDrawingContext alloc] init];
-    
-    CGSize boundingBox = [sizingCell.noteContent.text boundingRectWithSize:constraint
-                                              options:NSStringDrawingUsesLineFragmentOrigin
-                                           attributes:@{NSFontAttributeName:sizingCell.noteContent.font}
-                                              context:context].size;
-    
-    size = CGSizeMake(ceil(boundingBox.width), ceil(boundingBox.height));
 
-{% endhighlight %}
-
-=======
-
-
-## Enter text in
-deo the hieu dc
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
->>>>>>> parent of d588394... Updated 2015-06-02-your-filename.md
+dasdsadasdasdasdasdasdasdasd
