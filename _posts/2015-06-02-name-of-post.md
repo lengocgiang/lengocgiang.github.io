@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Post!"
-date:   2015-01-01 0:00:55
-categories: test
+title:  "giang!"
+date:   2015-06-02 0:00:55
+categories: jekyll update
 banner_image: sample-banner-image-1.jpg
 comments: true
 ---
