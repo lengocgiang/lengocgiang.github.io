@@ -38,6 +38,7 @@ theme:
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
 
 # Permalinks
 permalink:        pretty
