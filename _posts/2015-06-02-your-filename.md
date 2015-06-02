@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 
 This simple web server written in Node responds with "Hello World" for every 
