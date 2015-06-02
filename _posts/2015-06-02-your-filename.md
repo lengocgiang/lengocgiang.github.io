@@ -2,6 +2,7 @@
 published: true
 layout: post
 ---
+<<<<<<< HEAD
 sddsfdsfdsfsdfsd
 fdsf
 dsfds
@@ -23,3 +24,10 @@ sdf
 
 {% endhighlight %}
 
+=======
+
+
+## Enter text in
+deo the hieu dc
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+>>>>>>> parent of d588394... Updated 2015-06-02-your-filename.md
