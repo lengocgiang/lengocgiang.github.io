@@ -2,7 +2,6 @@
 published: true
 ---
 
-## Calculate UILabel height dynamic
 I'm writing project related to calcualte UILabel height dynamic with japanese. It's very funny, you know Janpanese different from other languag, Japanese's figurative language therefore calculation have a little bit different
 
     CGSize constraint = CGSizeMake(label.frame.size.width, 20000.0f);
