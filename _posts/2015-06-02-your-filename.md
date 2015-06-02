@@ -3,10 +3,11 @@ published: true
 layout: post
 ---
 
+
 This simple web server written in Node responds with "Hello World" for every 
 request.
 
-{% highlight js %}
+{% highlight objective-c %}
 var http = require('http');
 http.createServer(function (req, res) {
   res.writeHead(200, {'Content-Type': 'text/plain'});
