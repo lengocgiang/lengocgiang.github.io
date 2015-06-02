@@ -23,27 +23,4 @@ size = CGSizeMake(ceil(boundingBox.width), ceil(boundingBox.height));
 
 {% endhighlight %}
 
-{% highlight swift %}
-let testSwift = "Swift is here"
-{% endhighlight %}
-
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-{% highlight js %}
-var http = require('http');
-http.createServer(function (req, res) {
-  res.writeHead(200, {'Content-Type': 'text/plain'});
-  res.end('Hello World\n');
-}).listen(1337, '127.0.0.1');
-console.log('Server running at http://127.0.0.1:1337/');
-{% endhighlight %}
-
-
 
