@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Update magento URL after migrate your site from one environment to another"
+title: Update magento URL after migrate your site from one environment to another
 category: 
-- magento
-- guide
-permalink: update-magento-url-after-migrate-site-from-one-environment-to-another
-meta_description: 'How to update/edit magento base URL after migrate your site from one environment to another'
+  - magento
+  - guide
+permalink: "update-magento-url-after-migrate-site-from-one-environment-to-another"
+meta_description: How to update/edit magento base URL after migrate your site from one environment to another
 browser_title: Update magento URL after migrate site from one environment to another
+published: false
 ---
+
 
 This is a little stepping guide to update `baseurl` after migrate your 
 Magento website/web-store from one environment to another.
@@ -94,4 +96,3 @@ select * from core_config_data where config_id = 6
 
 You can repeat the update steps for each of your config_id(s) and then you are 
 all done!
-
