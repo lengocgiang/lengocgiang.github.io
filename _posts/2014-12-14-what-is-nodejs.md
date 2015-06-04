@@ -1,7 +1,6 @@
 ---
 layout: post
 title: What is Node.js
-date: {}
 categories: NodeJS Guides
 banner_video: "<iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/pU9Q6oiQNd0\" frameborder=\"0\" allowfullscreen></iframe>"
 comments: true

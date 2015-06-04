@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Welcome to Jekyll!"
-date: {}
 categories: jekyll update
 banner_image: "sample-banner-image-1.jpg"
 comments: true
+published: false
 ---
 
 

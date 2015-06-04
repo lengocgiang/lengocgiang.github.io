@@ -40,9 +40,6 @@ theme:
 markdown: kramdown
 highlighter: pygments
 
-plugins:     ./_plugins
-
-
 # Permalinks
 permalink:        pretty
 

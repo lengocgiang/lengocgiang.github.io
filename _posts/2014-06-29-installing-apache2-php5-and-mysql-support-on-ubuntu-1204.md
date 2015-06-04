@@ -7,12 +7,13 @@ category:
 permalink: installing-apache2-php5-and-mysql-support-on-ubuntu-12-04
 meta_description: 'Installing apache2, php5 and MySQL support on Ubuntu 12.04'
 browser_title: 'Installing apache2, php5 and MySQL support on Ubuntu 12.04'
+published: false
 ---
 
 Here are some quick step by step guide to follow, when you about to setup php5, MySQL web environment on ubuntu 12.04
 (Precise Pangolin). This guide would help you to install Apache2 web server on an Ubuntu 12.04 with php5
 support (mod_php) and MySQL.
-
+ư
 ### Step 1 - Go to terminal
 
 In ubuntu 12.04 there is a shortcut key to open a terminal window. Try [ctrl+alt+t] to open terminal window.
