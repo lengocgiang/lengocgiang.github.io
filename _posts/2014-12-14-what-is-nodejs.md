@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "What is Node.js"
-date:   2014-12-14 04:07:49
+title: What is Node.js
+date: {}
 categories: NodeJS Guides
-banner_video: '<iframe width="560" height="315" src="//www.youtube.com/embed/pU9Q6oiQNd0" frameborder="0" allowfullscreen></iframe>'
+banner_video: "<iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/pU9Q6oiQNd0\" frameborder=\"0\" allowfullscreen></iframe>"
 comments: true
+published: false
 ---
+
 
 Node.js is an open source, cross-platform runtime environment for server-side 
 and networking applications. Node.js applications are written in JavaScript, 
