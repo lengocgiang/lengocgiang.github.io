@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               GiangLe
-#tagline:             The Jekyll Butler
+tagline:             The Night Walker
 url:                 http://lengocgiang.github.io
 paginate:            2
 baseurl:             ""
