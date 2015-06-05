@@ -4,6 +4,14 @@ layout: post
 title:  Basic algorithm with Swift
 categories : algorithm swift
 ---
+Using swift implement popular Algorithms When i was a student, my dream implemented all algorithms in my teacher's book. He's great teacher, and he's book also very hard to understand for me at the time. Now I'm learning Swift, and I determined to turn my dream into reality
+
+First section, I focus to algorithms related to sort
+- SelectionSort
+- InsertionSort
+- BubbleSort
+- MergeSort
+- QuickSort(*)
 
 Quick sort
 
@@ -45,3 +53,5 @@ func quickSort() {
     
 }
 {% endhighlight %}
+
+You can find full source code in https://github.com/lengocgiang/Algorithm
