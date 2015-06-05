@@ -1,7 +1,8 @@
 ---
 published: true
 layout: post
-title:  "Basic algorithm with Swift"
+title:  Basic algorithm with Swift
+categories : algorithm swift
 ---
 
 Quick sort
