@@ -2,9 +2,6 @@
 published: true
 layout: post
 title:  "Basic algorithm with Swift"
-category:
-	- swift
-	- algorithm
 ---
 
 Quick sort
