@@ -4,7 +4,7 @@ layout: post
 title:  Basic algorithm with Swift
 categories : algorithm swift
 ---
-Using swift implement popular Algorithms When i was a student, my dream implemented all algorithms in my teacher's book. He's great teacher, and he's book also very hard to understand for me at the time. Now I'm learning Swift, and I determined to turn my dream into reality
+Using swift implement popular Algorithms When i was a student, my dream implemented all algorithms in my teacher's book. He's great teacher, and he's book also very hard to understand for me at the time. Now I'm changing ObjectiveC to Swift, and I determined to turn my dream into reality
 
 First section, I focus to algorithms related to sort
 - SelectionSort
