@@ -8,9 +8,12 @@ categories : poet
 Tối thứ 7, ngoài kia trời đang mưa, thật là làm cho con người mang nhiều cảm xúc.
 Tiện thể mình có lên vnexpress đọc báo thì có một bạn commment một đoạn thơ rất hay, lên Google tìm được toàn bài
 
-Mưa ơi! Đừng rơi nữa--
-Mưa ơi, đưng rơi nữa--
-Mẹ vẫn chưa về đâu--
+Mưa ơi! Đừng rơi nữa --
+
+Mưa ơi, đưng rơi nữa --
+
+Mẹ vẫn chưa về đâu --
+
 Chợ làng mình xa lắm--
 Qua sông chẳng có cầu.</br>
 
