@@ -8,18 +8,18 @@ categories : poet
 Tối thứ 7, ngoài kia trời đang mưa, thật là làm cho con người mang nhiều cảm xúc.
 Tiện thể mình có lên vnexpress đọc báo thì có một bạn commment một đoạn thơ rất hay, lên Google tìm được toàn bài
 
-Mưa ơi! Đừng rơi nữa
-Mưa ơi, đưng rơi nữa
-Mẹ vẫn chưa về đâu
-Chợ làng mình xa lắm
-Qua sông chẳng có cầu.
+Mưa ơi! Đừng rơi nữa</br>
+Mưa ơi, đưng rơi nữa</br>
+Mẹ vẫn chưa về đâu</br>
+Chợ làng mình xa lắm</br>
+Qua sông chẳng có cầu.</br>
 
-Mưa vẫn rơi vẫn rơi
-Ào ào trên mái giạ
-Con sông vào mùa hạ
-Nước dâng đầy khó đi
+Mưa vẫn rơi vẫn rơi</br>
+Ào ào trên mái giạ</br>
+Con sông vào mùa hạ</br>
+Nước dâng đầy khó đi</br>
 
-Trời mưa càng thương mẹ
-Vai gầy nặng lo toan
-Gió luồn qua kẽ liếp
-Mưa ngập tràn mắt 
+Trời mưa càng thương mẹ</br>
+Vai gầy nặng lo toan</br>
+Gió luồn qua kẽ liếp</br>
+Mưa ngập tràn mắt </br>
