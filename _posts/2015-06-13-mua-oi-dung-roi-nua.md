@@ -5,7 +5,8 @@ title:  Mưa ơi! Đừng rơi nữa
 categories : poet
 ---
 
-Tối thứ 7, ngoài kia trời đang mưa, thật là làm cho con người mang nhiều cảm xúc. Mình có lên VNexpress đọc báo thì có thấy một bạn comment một đoạn thơ rất hay về mưa, lên Google tìm được toàn bài. Nếu ai sinh ra và lớn lên ở làng quê nông thôn thì sẽ hiểu hết được ý và khung cảnh của bài này. Giống như ca dao có câu "Mong như mong mẹ về chợ", thêm một buổi chiều mưa rơi, đứa con ngồi trên mái hiên trước nhà mong mẹ đi chợ làng về. Lúc mình sinh ra thì bên trong làng vẫn còn nhiều nhà được lợp bằng mái rạ, bên cạnh thường có một đống rơm...
+Tối thứ 7, ngoài kia trời đang mưa, thật là làm cho con người mang nhiều cảm xúc. Mình có lên VNexpress đọc báo thì có thấy một bạn comment một đoạn thơ rất hay về mưa, lên Google tìm được toàn bài.  
+Nếu ai sinh ra và lớn lên ở làng quê nông thôn thì sẽ hiểu hết được ý và khung cảnh của bài này. Giống như ca dao có câu "Mong như mong mẹ về chợ", thêm một buổi chiều mưa rơi, đứa con ngồi trên mái hiên trước nhà mong mẹ đi chợ làng về. Lúc mình sinh ra thì bên trong làng vẫn còn nhiều nhà được lợp bằng mái rạ, bên cạnh thường có một đống rơm...
 
 ###Mưa ơi! Đừng rơi nữa
 
