@@ -27,3 +27,5 @@ author:
 version:             1.0.0
 github:
   repo:              https://github.com/lengocgiang
+  # Gems
+gems: [jekyll-paginate]

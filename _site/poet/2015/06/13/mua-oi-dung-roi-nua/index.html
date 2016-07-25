@@ -10,7 +10,7 @@
 
   <title>
     
-      Calculate height of UILabel &middot; GiangLe
+      Mưa ơi! Đừng rơi nữa &middot; GiangLe
     
   </title>
 
@@ -38,41 +38,33 @@
 
       <main>
         <article class="post">
-  <h1 class="post-title">Calculate height of UILabel</h1>
-  <time datetime="2015-06-02T00:00:00+07:00" class="post-date">02 Jun 2015</time>
-  <p>I’m writing project related to calcualte <code class="highlighter-rouge">UILabel</code> height dynamic with japanese. 
- It’s very funny, you know <code class="highlighter-rouge">Janpanese</code> different from other languag, Japanese’s figurative language therefore calculation have a little bit different</p>
+  <h1 class="post-title">Mưa ơi! Đừng rơi nữa</h1>
+  <time datetime="2015-06-13T00:00:00+07:00" class="post-date">13 Jun 2015</time>
+  <p>Tối thứ 7, ngoài kia trời đang mưa, thật là làm cho con người mang nhiều cảm xúc. Mình có lên VNexpress đọc báo thì có thấy một bạn comment một đoạn thơ rất hay về mưa, lên Google tìm được toàn bài.<br />
+Nếu ai sinh ra và lớn lên ở làng quê nông thôn thì sẽ hiểu hết được ý và khung cảnh của bài này. Giống như ca dao có câu “Mong như mong mẹ về chợ”, thêm một buổi chiều mưa rơi, đứa con ngồi trên mái hiên trước nhà mong mẹ đi chợ làng về. Lúc mình sinh ra thì bên trong làng vẫn còn nhiều nhà được lợp bằng mái rạ, bên cạnh thường có một đống rơm…</p>
 
-<figure class="highlight"><pre><code class="language-objectivec" data-lang="objectivec">CGSize constraint = CGSizeMake(label.frame.size.width, 20000.0f);
-    
-CGSize size;
-    
-NSStringDrawingContext *context = [[NSStringDrawingContext alloc] init];
-    
-CGSize boundingBox = [label.text
-                          boundingRectWithSize:constraint
-                          options:NSStringDrawingUsesLineFragmentOrigin
-                          attributes:@{NSFontAttributeName:label.font}
-                          context:context].size;
-    
-    
-size = CGSizeMake(ceil(boundingBox.width), ceil(boundingBox.height));</code></pre></figure>
+<p>###Mưa ơi! Đừng rơi nữa</p>
 
+<p>Mưa ơi, đừng rơi nữa<br />
+Mẹ vẫn chưa về đâu<br />
+Chợ làng mình xa lắm<br />
+Qua sông chẳng có cầu.</p>
+
+<p>Mưa vẫn rơi vẫn rơi<br />
+Ào ào trên mái rạ<br />
+Con sông vào mùa hạ<br />
+Nước dâng đầy khó đi  </p>
+
+<p>Trời mưa càng thương mẹ<br />
+Vai gầy nặng lo toan<br />
+Gió luồn qua kẽ liếp<br />
+Mưa ngập tràn mắt em.</p>
 
 </article>
 
 <aside class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
-    
-      <li>
-        <h3>
-          <a href="//poet/2015/06/13/mua-oi-dung-roi-nua/">
-            Mưa ơi! Đừng rơi nữa
-            <small><time datetime="2015-06-13T00:00:00+07:00">13 Jun 2015</time></small>
-          </a>
-        </h3>
-      </li>
     
       <li>
         <h3>
@@ -88,6 +80,15 @@ size = CGSizeMake(ceil(boundingBox.width), ceil(boundingBox.height));</code></pr
           <a href="//2015/06/04/ca-dao/">
             Ca dao thời hiện đại
             <small><time datetime="2015-06-04T00:00:00+07:00">04 Jun 2015</time></small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="//2015/06/02/calculate-height-uilabel/">
+            Calculate height of UILabel
+            <small><time datetime="2015-06-02T00:00:00+07:00">02 Jun 2015</time></small>
           </a>
         </h3>
       </li>
